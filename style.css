@@ -1,0 +1,12 @@
+#Test
+{
+    position: absolute;
+    visibility:	visible;
+    bottom: 1%;
+    right: 1%;
+    height: auto;
+    width: auto;
+    white-space: nowrap; /* Thanks to Herb Caudill comment */
+    color: #1cd3e6;
+    font-family: monospace;
+}
